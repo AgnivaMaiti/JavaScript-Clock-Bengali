@@ -17,9 +17,9 @@ body {
 }
 
 .made-by {
-    position: absolute;
     bottom: 10px;
     right: 10px;
     font-size: 12px;
     color: #666; 
+    align-self: flex-end;
 }
